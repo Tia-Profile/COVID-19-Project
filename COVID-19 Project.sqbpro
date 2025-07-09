@@ -36,7 +36,7 @@ WHERE
 	location like '%states%'
 	
 
-	--Countries with highest infection rate
+--Countries with highest infection rate
 
 SELECT
 	location,
